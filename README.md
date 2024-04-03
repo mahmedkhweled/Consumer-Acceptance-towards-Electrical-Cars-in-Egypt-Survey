@@ -4,38 +4,38 @@ This case study tried to investigate trends in consumer awareness, familiarity, 
 
 This research wanted to answer the following research questions: 
 
-1-Do family and friends have a significant effect on your choice? 
-2-Is there a relationship between the influencers and the infrastructure?  
-3-What is the role is of the infrastructure for the consumers? 
-4-What affects the adaption? (cost, technical barriers, ..) 
-5-Which brand is preferred? 
-6-Which type of car is preferred? 
-7-Is there a relationship between the brands and types of the cars? 
-8-What are the main indicators affecting the price variance percentage expected from a normal car price?
-9-Does price variance percentage differ according to the education level? 
-10-Does price variance percentage differ if the care was secondary care for this household?  
+<br> 1-Do family and friends have a significant effect on your choice? 
+<br> 2-Is there a relationship between the influencers and the infrastructure?  
+<br> 3-What is the role is of the infrastructure for the consumers? 
+<br> 4-What affects the adaption? (cost, technical barriers, ..) 
+<br> 5-Which brand is preferred? 
+<br> 6-Which type of car is preferred? 
+<br> 7-Is there a relationship between the brands and types of the cars? 
+<br> 8-What are the main indicators affecting the price variance percentage expected from a normal car price?
+<br> 9-Does price variance percentage differ according to the education level? 
+<br> 10-Does price variance percentage differ if the care was secondary care for this household?  
 ## . Read and Explain Dataset:
 ### Columns:
-1-ID	
-2-Age	
-3-Level of education
-4-Distance_from_home_to_work 
-5-Category_to_Consider
-6-Brand 1
-7-Brand 2
-8-influence_on_Choice
-9-adopt_affection 	
-10-Sports car	
-11-SUV	
-12-Sedan
-13-Hatchback
-14-Infrastructure
-15-Effect on Environment
-16-Ease of purchase	
-17-Brand name 
-18-After Sales Service	
-19-Average
-20-variance percentage expected
+<br> 1-ID	
+<br> 2-Age	
+<br> 3-Level of education
+<br> 4-Distance_from_home_to_work 
+<br> 5-Category_to_Consider
+<br> 6-Brand 1
+<br> 7-Brand 2
+<br> 8-influence_on_Choice
+<br> 9-adopt_affection 	
+<br> 10-Sports car	
+<br> 11-SUV	
+<br> 12-Sedan
+<br> 13-Hatchback
+<br> 14-Infrastructure
+<br> 15-Effect on Environment
+<br> 16-Ease of purchase	
+<br> 17-Brand name 
+<br> 18-After Sales Service	
+<br> 19-Average
+<br> 20-variance percentage expected
 
 ## .	Data Preprocessing:
 Data preprocessing plays a crucial role in statistical analysis, ensuring that datasets are clean, consistent, and ready for analysis. In this presentation, we will explore the process of data preprocessing using SPSS, focusing on cleaning missing values and imputing missing data.
