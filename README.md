@@ -1,8 +1,8 @@
-# Consumer-Acceptance-towards-Electrical-Cars-in-Egypt-Survey
+# Consumer-Acceptance-towards-Electrical-Cars-in-Egypt-SPSSSurvey
 Despite policy support and technological progress, consumer adoption of electric vehicles remains limited in Egypt. One important barrier to electric vehicle adoption may be limited consumer awareness. 
 This case study tried to investigate trends in consumer awareness, familiarity, and experience with electric vehicles. A survey was conducted with 41 potential customers. 
 
-This research wanted to answer the following research questions: 
+This research wanted to answer the following research questions by using SPSS: 
 
 <br> 1-Do family and friends have a significant effect on your choice? 
 <br> 2-Is there a relationship between the influencers and the infrastructure?  
@@ -48,8 +48,8 @@ Using the "Recode into Different Variables" option under the "Transform" menu in
 After recoding, missing values in columns Brand1 and Brand2 were successfully replaced with the code 999, providing a consistent representation for missing data.
 By coding missing values as 999 in columns Brand1 and Brand2, the dataset is now prepared for further analysis. This ensures that missing values are clearly identified and accounted for during statistical analysis, contributing to the integrity and reliability of the results.
 
-## .	Statistical Analysis:
- we will embark on a journey to explore the fundamental concepts, techniques, and applications of statistical analysis. 
+## .	Statistical Analysis Using SPSS:
+ we will embark on a journey to explore the fundamental concepts, techniques, and applications of statistical analysis by usnig SPSS. 
 ### 1.	Do family and friends have a significant effect on your choice?
 ![image](https://github.com/mahmedkhweled/Consumer-Acceptance-towards-Electrical-Cars-in-Egypt-Survey/assets/67151245/79df1901-cb64-4263-8757-bfbac8de56d7)
 
