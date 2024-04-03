@@ -3,7 +3,7 @@
 
 2.	Statistical Analysis:
 1.	Do family and friends have a significant effect on your choice?
-![image](https://github.com/mahmedkhweled/Consumer-Acceptance-towards-Electrical-Cars-in-Egypt-Survey/assets/Picture1.png)
+![image](https://github.com/mahmedkhweled/Consumer-Acceptance-towards-Electrical-Cars-in-Egypt-Survey/assets/67151245/Picture1.png)
 
   
 Interpretation:
