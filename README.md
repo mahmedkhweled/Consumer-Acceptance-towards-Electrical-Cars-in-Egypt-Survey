@@ -1,7 +1,55 @@
 # Consumer-Acceptance-towards-Electrical-Cars-in-Egypt-Survey
+Despite policy support and technological progress, consumer adoption of electric vehicles remains limited in Egypt. One important barrier to electric vehicle adoption may be limited consumer awareness. 
+This case study tried to investigate trends in consumer awareness, familiarity, and experience with electric vehicles. A survey was conducted with 41 potential customers. 
+
+This research wanted to answer the following research questions: 
+
+	Do family and friends have a significant effect on your choice? 
+	Is there a relationship between the influencers and the infrastructure?  
+	What is the role is of the infrastructure for the consumers? 
+	What affects the adaption? (cost, technical barriers, ..) 
+	Which brand is preferred? 
+	Which type of car is preferred? 
+	Is there a relationship between the brands and types of the cars? 
+	What are the main indicators affecting the price variance percentage expected from a normal car price?
+	Does price variance percentage differ according to the education level? 
+	Does price variance percentage differ if the care was secondary care for this household?  
+## . Read and Explain Dataset:
+### Columns:
+1-ID	
+2-Age	
+3-Level of education
+4-Distance_from_home_to_work 
+5-Category_to_Consider
+6-Brand 1
+7-Brand 2
+8-influence_on_Choice
+9-adopt_affection 	
+10-Sports car	
+11-SUV	
+12-Sedan
+13-Hatchback
+14-Infrastructure
+15-Effect on Environment
+16-Ease of purchase	
+17-Brand name 
+18-After Sales Service	
+19-Average
+20-variance percentage expected
+
 ## .	Data Preprocessing:
+Data preprocessing plays a crucial role in statistical analysis, ensuring that datasets are clean, consistent, and ready for analysis. In this presentation, we will explore the process of data preprocessing using SPSS, focusing on cleaning missing values and imputing missing data.
+#### Handling Missing Values:
+Upon initial examination of the dataset, it was observed that columns Brand1 and Brand2 contain missing values. These missing values are represented as blank cells.
+
+#### Coding Missing Values:
+To address the missing values in columns Brand1 and Brand2, it was decided to code them with a consistent value to clearly identify them during analysis. The value chosen for coding missing values is 999.
+Using the "Recode into Different Variables" option under the "Transform" menu in SPSS, missing values in columns Brand1 and Brand2 were recoded to 999.
+After recoding, missing values in columns Brand1 and Brand2 were successfully replaced with the code 999, providing a consistent representation for missing data.
+By coding missing values as 999 in columns Brand1 and Brand2, the dataset is now prepared for further analysis. This ensures that missing values are clearly identified and accounted for during statistical analysis, contributing to the integrity and reliability of the results.
 
 ## .	Statistical Analysis:
+ we will embark on a journey to explore the fundamental concepts, techniques, and applications of statistical analysis. 
 ### 1.	Do family and friends have a significant effect on your choice?
 ![image](https://github.com/mahmedkhweled/Consumer-Acceptance-towards-Electrical-Cars-in-Egypt-Survey/assets/67151245/79df1901-cb64-4263-8757-bfbac8de56d7)
 
