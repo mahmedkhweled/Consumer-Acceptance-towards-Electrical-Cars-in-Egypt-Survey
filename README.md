@@ -4,16 +4,16 @@ This case study tried to investigate trends in consumer awareness, familiarity, 
 
 This research wanted to answer the following research questions: 
 
-	Do family and friends have a significant effect on your choice? 
-	Is there a relationship between the influencers and the infrastructure?  
-	What is the role is of the infrastructure for the consumers? 
-	What affects the adaption? (cost, technical barriers, ..) 
-	Which brand is preferred? 
-	Which type of car is preferred? 
-	Is there a relationship between the brands and types of the cars? 
-	What are the main indicators affecting the price variance percentage expected from a normal car price?
-	Does price variance percentage differ according to the education level? 
-	Does price variance percentage differ if the care was secondary care for this household?  
+1-Do family and friends have a significant effect on your choice? 
+2-Is there a relationship between the influencers and the infrastructure?  
+3-What is the role is of the infrastructure for the consumers? 
+4-What affects the adaption? (cost, technical barriers, ..) 
+5-Which brand is preferred? 
+6-Which type of car is preferred? 
+7-Is there a relationship between the brands and types of the cars? 
+8-What are the main indicators affecting the price variance percentage expected from a normal car price?
+9-Does price variance percentage differ according to the education level? 
+10-Does price variance percentage differ if the care was secondary care for this household?  
 ## . Read and Explain Dataset:
 ### Columns:
 1-ID	
